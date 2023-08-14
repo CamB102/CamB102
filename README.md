@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Cam</h1>
 <h4 align="center">Since I jumped into coding in early 2023, it's been my daily adventure. I'm all about crafting stunning front-end designs that make the web pop.</h4> 
 <h5>🚀 Java and web development have hooked me as well, and I'm constantly learning new tricks. Here's to creating beautiful and functional web experiences, one line at a time!🚀</h5>
